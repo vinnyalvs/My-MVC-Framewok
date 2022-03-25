@@ -56,13 +56,13 @@ Doctrine ist a famous ORM (object relational mapper) which enable us to worry in
 
 ## Directories
 
-* Pasta **public** has the index.php file, and the front-end assets like HTML, CSS and JS;
-* Pasta **app/Controllers** has the controllers;
-* Pasta **app/data**  has the EntityManager, responsible to connect with the database;
-* Pasta **app/Model** has the application entities;
-* Pasta **app/routes** has a file where the application routes must be declared;
-* Pasta **app/Utils** has the application views handler;
-* Pasta **app/Views** has application views;
+* **public** has the index.php file, and the front-end assets like HTML, CSS and JS;
+* **app/Controllers** has the controllers;
+* **app/data**  has the EntityManager, responsible to connect with the database;
+* **app/Model** has the application entities;
+* **app/routes** has a file where the application routes must be declared;
+* **app/Utils** has the application views handler;
+* **app/Views** has application views;
 
 
 By default, the application write the log file in the root directory. 
@@ -71,7 +71,7 @@ By default, the application write the log file in the root directory.
 
 * Enhance logs
 * Enhance commentary in code
-* Enhance Excpetion/Error treatment
+* Enhance Exception/Error treatment
 * Enhance the View Handler
 
 
@@ -80,6 +80,7 @@ By default, the application write the log file in the root directory.
 Vinicius Alberto Alves da Silva
 
 E-mail: viniciusaalberto@gmail.com
+E-mail: viniciusalves@ice.ufjf.br
 
 [LinkedIn](linkedin.com/in/vinicius-alves-9a45a3117)
 
