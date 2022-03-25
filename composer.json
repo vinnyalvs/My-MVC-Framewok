@@ -1,0 +1,23 @@
+{
+    "name": "vinnyalvs/my-mvc-framework",
+    "description": "My MVC framework built for studying",
+    "type": "project",
+    "require": {
+        "doctrine/orm": "^2.11",
+        "doctrine/cache": "^2.1",
+        "symfony/cache": "^5.4",
+        "doctrine/annotations": "^1.13",
+        "monolog/monolog": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Alberto",
+            "email": "viniciusaalberto@gmail.com"
+        }
+    ]
+}
